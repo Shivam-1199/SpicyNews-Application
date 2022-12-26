@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SpicyNews-Application/static/css/main.073c9b0a.css",
+    "main.js": "/SpicyNews-Application/static/js/main.2017fd77.js",
+    "static/js/787.4c026eef.chunk.js": "/SpicyNews-Application/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/SpicyNews-Application/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/SpicyNews-Application/index.html",
+    "main.073c9b0a.css.map": "/SpicyNews-Application/static/css/main.073c9b0a.css.map",
+    "main.2017fd77.js.map": "/SpicyNews-Application/static/js/main.2017fd77.js.map",
+    "787.4c026eef.chunk.js.map": "/SpicyNews-Application/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2017fd77.js"
+  ]
+}

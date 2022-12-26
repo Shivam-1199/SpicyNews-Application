@@ -1,0 +1,208 @@
+ 
+
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Lockerbie bombing suspect in US custody - BBC",
+      "description": "The Libyan man is accused of making the bomb which destroyed Pan Am flight 103 over Lockerbie.",
+      "url": "https://www.bbc.com/news/uk-scotland-63933837",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FB0E/production/_111207246_gettyimages-978605568.jpg",
+      "publishedAt": "2022-12-11T12:23:01Z",
+      "content": "A Libyan man accused of making the bomb which destroyed Pan Am flight 103 over Lockerbie 34 years ago is in United States custody, Scottish authorities have said. \r\nThe US announced charges against A… [+2950 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Ukraine attacks occupied Melitopol, Russian side says two killed - Reuters",
+      "description": "Ukraine attacked occupied Melitopol in the country's southeast on Saturday evening, the Russian-installed and exiled Ukrainian authorities of the strategically located city said.",
+      "url": "https://www.reuters.com/world/europe/ukraine-attacks-occupied-melitopol-russian-side-says-two-killed-2022-12-11/",
+      "urlToImage": "https://www.reuters.com/resizer/_pRVk1pFIkeIt27tfHUPfxXYn6g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GWTSR7H4IZKPNOH5EFHX6QNFHI.jpg",
+      "publishedAt": "2022-12-11T11:48:00Z",
+      "content": "KYIV, Dec 11 (Reuters) - Ukraine attacked occupied Melitopol in the country's southeast on Saturday evening, the Russian-installed and exiled Ukrainian authorities of the strategically located city s… [+2530 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Ryan Gaydos",
+      "title": "NFL Week 14 preview: Playoff berths on the line for 3 teams - Fox News",
+      "description": "The NFL is entering Week 14 of the 2022 season with a handful of huge matchups on the horizon. Three teams could end up clinching playoff spots.",
+      "url": "https://www.foxnews.com/sports/nfl-week-14-preview-playoff-berths-line-3-teams",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Nick-Bosa-1.jpg",
+      "publishedAt": "2022-12-11T11:00:33Z",
+      "content": "Week 14 of the 2022 season will begin with the Los Angeles Rams hosting the Las Vegas Raiders and end with the Arizona Cardinals taking on the New England Patriots.\r\nThe matchups are not as enticing … [+6304 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Spaceflight Now" },
+      "author": null,
+      "title": "Japanese moon lander, NASA hitchhiker payload launched by SpaceX – Spaceflight Now - Spaceflight Now",
+      "description": null,
+      "url": "https://spaceflightnow.com/2022/12/11/falcon-9-ispace-mission-1-live-coverage/",
+      "urlToImage": null,
+      "publishedAt": "2022-12-11T10:30:00Z",
+      "content": "EDITORS NOTE: Watch a replay of our live coverage of the launch here.\r\nA SpaceX Falcon 9 rocket lifted off from Cape Canaveral early Sunday with a commercial Japanese robotic moon lander and a NASA h… [+20852 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Chris McGreal",
+      "title": "Is Dominion’s $1.6bn defamation lawsuit a death blow for Murdoch and Fox News? - The Guardian",
+      "description": "The media mogul and Fox Corp are being sued for allegedly broadcasting ‘lies’ about the voting machine company",
+      "url": "https://www.theguardian.com/media/2022/dec/11/rupert-murdoch-fox-dominion-lawsuit-deposition",
+      "urlToImage": "https://i.guim.co.uk/img/media/13c3b1a01e44d434648424edebe37da48c727aa2/0_32_2015_1209/master/2015.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe01f6d0ba27fe2674d6577bf7cff423",
+      "publishedAt": "2022-12-11T07:02:00Z",
+      "content": "Rupert Murdoch rarely has to answer for the alternative realities presented by his hugely profitable US cable network, Fox News.\r\nIts conspiratorial claims of a parade of cover ups from the 2012 Beng… [+6355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Rosy Cordero",
+      "title": "‘Father Of The Bride’ ‘SNL’ Reboot Reunites Steve Martin, Martin Short & Kieran Culkin; Selena Gomez Returns - Deadline",
+      "description": "Saturday Night Live blessed viewers with a 2022 reboot of the 1991 film The Father of the Bride reuniting Steve Martin, Martin Short and Kieran Culkin, who all starred in the original. The franchise’s latest incarnation picks up many years later as George Ban…",
+      "url": "https://deadline.com/2022/12/father-of-the-bride-snl-sketch-1235195838/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-10-at-10.07.13-PM.png?w=1024",
+      "publishedAt": "2022-12-11T06:31:00Z",
+      "content": "Saturday Night Liveblessed viewers with a 2022 reboot of the 1991 film The Father of the Bride reuniting Steve Martin, Martin Short and Kieran Culkin, who all starred in the original.\r\nThe franchise’… [+1199 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Kevin Iole",
+      "title": "UFC 282: Magomed Ankalaev-Jan Blachowicz title fight ends in bizarre split draw - Yahoo Sports",
+      "description": "The UFC ordered Ankalaev and Blachowicz to fight for the vacant belt and it appeared that Ankalaev had done enough to win. But the judges’ couldn’t agree and...",
+      "url": "https://sports.yahoo.com/ufc-282-magomed-ankalaev-jan-blachowicz-title-fight-ends-in-bizarre-split-draw-062558454.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/M_SX5G8HvpgLIL9O7Fpbpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/84990760-791c-11ed-9fef-44c86b205692",
+      "publishedAt": "2022-12-11T06:25:00Z",
+      "content": "LAS VEGAS There will be no light heavyweight champion for at least several months after Magomed Ankalaev and Jan Blachowicz, inexplicably, fought to a split draw Saturday in the main event of UFC 282… [+2058 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "NASA’s Orion due to splash down after historic Moon mission - Al Jazeera English",
+      "description": "Orion’s test flight included a lunar flyby and a journey further into space than any previous habitable spacecraft.",
+      "url": "https://www.aljazeera.com/news/2022/12/11/nasas-orion-due-to-splash-down-after-historic-moon-mission",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22332783032136.jpg?resize=1200%2C675",
+      "publishedAt": "2022-12-11T06:12:18Z",
+      "content": "NASAs Orion capsule is due to splash down in the Pacific Ocean after wrapping up a three-week test flight that included a close pass at the Moon and a journey further into space than any previous hab… [+3608 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "What happens to Ronaldo’s career after Portugal’s World Cup exit? - Al Jazeera English",
+      "description": "Morocco’s stunning upset of Portugal will likely be the 37-year-old captain’s final World Cup match.",
+      "url": "https://www.aljazeera.com/news/2022/12/11/the-end-for-ronaldo",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22344613922912.jpg?resize=1200%2C675",
+      "publishedAt": "2022-12-11T05:12:36Z",
+      "content": "Cristiano Ronaldos Portugal career is hanging in the balance following Portugals crushing 1-0 loss to Morocco.\r\nRonaldo, 37, one of the greatest ever to play the game, has never won a World Cup and l… [+4868 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ScienceAlert" },
+      "author": "Michelle Starr",
+      "title": "This Alloy Is The Toughest Known Material on Earth, And It Gets Tougher in The Cold - ScienceAlert",
+      "description": "An alloy of chromium, cobalt, and nickel has just given us the highest fracture toughness ever measured in a material on Earth.",
+      "url": "https://www.sciencealert.com/this-alloy-is-the-toughest-known-material-on-earth-and-it-gets-tougher-in-the-cold",
+      "urlToImage": "https://www.sciencealert.com/images/2022/12/crconi-fracture.jpg",
+      "publishedAt": "2022-12-11T05:00:49Z",
+      "content": "An alloy of chromium, cobalt, and nickel has just given us the highest fracture toughness ever measured in a material on Earth.\r\nIt has exceptionally high strength and ductility, leading to what a te… [+5116 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Microsoft acquisition of Activision remains 'less than 50-50' chance amid FTC lawsuit: Analyst - Yahoo Finance",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrkOd2855aLM",
+      "urlToImage": null,
+      "publishedAt": "2022-12-11T05:00:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Ralph D. Russo",
+      "title": "USC's Williams wins Heisman after leading Trojan turnaround - The Associated Press - en Español",
+      "description": "NEW YORK (AP) — Caleb Williams brought sizzle, excitement and star power back to Southern California football. And now the Heisman Trophy, too. Williams, the dynamic quarterback who was the catalyst for the Trojans’ turnaround season , won the Heisman on Satu…",
+      "url": "https://apnews.com/article/college-football-sports-southern-california-trojans-caleb-williams-f527ed19f1268e745deb41ba7cdbf31b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/e7f306f6dfc548dcafeb40953e5acc0a/3000.webp",
+      "publishedAt": "2022-12-11T04:30:00Z",
+      "content": "NEW YORK (AP) Caleb Williams brought sizzle, excitement and star power back to Southern California football.\r\nAnd now the Heisman Trophy, too.\r\nWilliams, the dynamic quarterback who was the catalyst … [+6059 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Boston Globe" },
+      "author": null,
+      "title": "Four Maine Maritime Academy students, including 2 from Mass., killed in violent crash as three others survive, officials say - msnNOW",
+      "description": "Passengers killed in the crash were identified Saturday evening as  Luke Simpson, 22, of Rockport, Mass.,  Riley Ignacio-Cameron, 20, of Aquinnah, Mass., Brian Kenealy, 20, of York, Maine, and Chase Fossett, 21, of Gardiner, Maine, officials said.",
+      "url": "https://www.bostonglobe.com/2022/12/10/metro/multiple-fatalities-maine-crash-three-maine-maritime-academy-students-survive-officials-say/",
+      "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=374",
+      "publishedAt": "2022-12-11T04:29:49Z",
+      "content": "Four passengers in the vehicle were pronounced dead at the scene and were taken to the office of the chief medical examiner in Augusta, State Police said. They were identified as Luke Simpson, 22, of… [+3708 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Kevin Berge",
+      "title": "WWE NXT Deadline 2022 Results: Winners, Grades, Reaction and Highlights - Bleacher Report",
+      "description": "WWE NXT has been building to this moment. NXT Deadline will be a show unlike anyone has ever seen in WWE, particularly thanks to a brand new match: the Iron...",
+      "url": "https://bleacherreport.com/articles/10058291-wwe-nxt-deadline-2022-results-winners-grades-reaction-and-highlights",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/x_155,y_0,w_1516,h_1009,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/vbjdtjlm5lbfug0avxlb.jpg",
+      "publishedAt": "2022-12-11T03:48:49Z",
+      "content": "Credit: WWE.com\r\nWWE NXT has been building to this moment. NXT Deadline will be a show unlike anyone has ever seen in WWE, particularly thanks to a brand new match: the Iron Survivor Challenge.\r\nCarm… [+815 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "China's capital swings from anger over zero-COVID to coping with infections - Reuters",
+      "description": "Beijing's COVID-19 gloom deepened on Sunday with many shops and other businesses closed, and an expert warned of many thousands of new coronavirus cases as anger over China's previous COVID policies gave way to worry about coping with infection.",
+      "url": "https://www.reuters.com/world/china/chinas-capital-swings-anger-over-zero-covid-coping-with-infections-2022-12-11/",
+      "urlToImage": "https://www.reuters.com/resizer/pepUklGUspOijz-inmpWxcpzzJU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YVAPVMJ2AVMMJFLLMUFARDSHKU.jpg",
+      "publishedAt": "2022-12-11T03:38:00Z",
+      "content": "BEIJING, Dec 11 (Reuters) - Beijing's COVID-19 gloom deepened on Sunday with many shops and other businesses closed, and an expert warned of many thousands of new coronavirus cases as anger over Chin… [+3515 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "COVID and flu cases on the rise | WNT - ABC News",
+      "description": "Major cities like Los Angeles and New York have put indoor mask recommendations back in place with COVID-19 and flu cases on the rise.WATCH FULL EPISODES OF ...",
+      "url": "https://www.youtube.com/watch?v=ygYs7xtI6fY",
+      "urlToImage": "https://i.ytimg.com/vi/ygYs7xtI6fY/maxresdefault.jpg",
+      "publishedAt": "2022-12-11T02:43:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Serbia’s Vucic seeks NATO approval to send forces to north Kosovo - Al Jazeera English",
+      "description": "Serbian president said he was under ‘no illusion’ that NATO would agree to his request amid tension in northern Kosovo.",
+      "url": "https://www.aljazeera.com/news/2022/12/11/serbias-vucic-seeks-nato-approval-to-send-forces-to-north-kosovo",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/2022-09-23T110155Z_1164408894_RC24LW97C9EO_RTRMADP_3_KOSOVO-SERBS-NATO.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-12-11T01:31:15Z",
+      "content": "Serbia will ask NATO peacekeepers to let it deploy Serbian military and police to volatile northern Kosovo, although it believes there is no chance of the request being approved, Serbian President Al… [+3991 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Andy Rose",
+      "title": "Postal worker shot to death while delivering mail in Milwaukee - CNN",
+      "description": "A mail carrier was shot to death Friday evening in Milwaukee, police said.",
+      "url": "https://www.cnn.com/2022/12/10/us/milwaukee-postal-worker-killed/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221210072506-milwaukee-postal-worker-killed.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-11T00:33:00Z",
+      "content": "A mail carrier was shot to death Friday evening in Milwaukee, police said.\r\nPolice said the 44-year-old man had worked for the US Postal Service for 18 years. They did not release his name. \r\nThe Mil… [+1184 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Twitter to relaunch Twitter Blue at higher price for Apple users - Reuters",
+      "description": "Twitter Inc will relaunch a revamped version of its subscription service Twitter Blue on Monday at a higher price for Apple users, the company said in a tweet on Saturday.",
+      "url": "https://www.reuters.com/technology/twitter-relaunch-subscription-service-twitter-blue-monday-2022-12-10/",
+      "urlToImage": "https://www.reuters.com/resizer/ucqw58sUP490hXsZLVppgGNwtMI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FLSYONCD4BMQXEKFTFIN7ZKYUE.jpg",
+      "publishedAt": "2022-12-11T00:29:00Z",
+      "content": "Dec 10 (Reuters) - Twitter Inc will relaunch a revamped version of its subscription service Twitter Blue on Monday at a higher price for Apple users, the company said in a tweet on Saturday.\r\nThe com… [+1434 chars]"
+    },
+    {
+      "source": { "id": null, "name": "DW (English)" },
+      "author": "Deutsche Welle",
+      "title": "Greek MEP stripped of vice president powers over graft probe - DW (English)",
+      "description": "Eva Kaili, a European Parliament vice president, was suspended from her duties after being caught up in an investigation into influence peddling at the EU assembly allegedly involving officials from Qatar.",
+      "url": "https://www.dw.com/en/greek-mep-stripped-of-vice-president-powers-over-graft-probe/a-64057460",
+      "urlToImage": "https://static.dw.com/image/64057668_6.jpg",
+      "publishedAt": "2022-12-11T00:22:30Z",
+      "content": "A Greek MEP Eva Kaili had her powers as a vice president of the European Parliament suspended Saturday over a corruption probe implicating World Cup hosts Qatar.\r\nEuropean Parliament President Robert… [+4123 chars]"
+    }
+  ]
+}
